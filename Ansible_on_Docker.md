@@ -31,7 +31,7 @@ what to execute in container - /bin/bash
  
 	![ansible2](/images/ansible_on_docker/ansible2.png)
 
-4) To run access the container run,
+4) To access the container run,
 
 		docker attach <CONTAINER ID>
 		docker attach ec31b87d80ae
