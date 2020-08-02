@@ -1,7 +1,7 @@
 # Ansible_Project
-Ansible Projects and Articles
 
-Install Ansible on Docker
+Articles
+########
 
-http://github.com - automatic!
-[Install Ansible on Docker](https://github.com/dp119/Ansible_Project/blob/master/Ansible_on_Docker.md)
+
+Setup Ansible master and slave on Docker - [read here](https://github.com/dp119/Ansible_Project/blob/master/Ansible_on_Docker.md)
