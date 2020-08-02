@@ -1,8 +1,8 @@
 # <h1> Ansible_Installation_on_Docker_Container
 ########################################
 
-Below I have documented the steps to install Ansible master on a docker container.
-Alternatively you can pull an ansible Image from docker registry and start using it.
+Below are the steps install Ansible master on a docker container.
+Alternatively you can also pull an ansible Image from docker registry and start using it.
 
 Pre-requisites - Docker to be installed already
 
