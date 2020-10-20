@@ -91,7 +91,7 @@ what to execute in container - /bin/bash
 
 7) Start the ssh service
 
-		Service ssh restart
+		service ssh restart
 
 
 	![ansible6](/images/ansible_on_docker/ansible6.png)
@@ -103,7 +103,7 @@ what to execute in container - /bin/bash
 
 1)	Run below command to get the IP’s of the containers.
 
-		Docker network inspect bridge
+		docker network inspect bridge
 
 2)	Copy the IP address of the ansible_slave and and ping from master
 
@@ -114,7 +114,7 @@ what to execute in container - /bin/bash
 
 3)	Generate ssh key
 
-		Ssh-keygen 
+		ssh-keygen 
 	
 		ssh-copy-id root@172.17.0.3
 

@@ -1,0 +1,8 @@
+
+Run existing image in interactive mode
+#############################
+
+docker run -it --entrypoint bash deepak/ansible_master
+docker run -itd deepak/ansible_master /bin/bash
+docker attach <container id>
+
